@@ -1,0 +1,22 @@
+
+.slider {
+    display: flex;
+}
+
+.abo1 {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+
+.abo2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(54, 231, 0);
+}
+
+.abo3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(1, 46, 196);
+}
